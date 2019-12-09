@@ -5,10 +5,9 @@ layout: tabbed-assignment
 # Learning Targets
 
 Students will be able to:
-* Define and call simple functions that simplify turtle drawing tasks.
-* Recognize functions in programs as a form of abstraction.
-* Write a program that solves a turtle drawing problem using multiple levels of abstraction (i.e. functions that call other functions).
-* Explain why and how functions can make code easier to read and maintain.
+* Use parameters to provide different values as input to procedures when they are called in a program.
+* Use API documentation to assist in writing programs.
+* Define API (*Application Programming Interface*), as a set of commands made available to a program.
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
